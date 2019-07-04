@@ -1,1 +1,1 @@
-repor test para jenkins
+repo test para jenkins
