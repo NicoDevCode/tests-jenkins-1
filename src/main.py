@@ -9,7 +9,7 @@ def suma(a, b):
 def hello():
     res = suma(2,3)	
     name = request.args.get("name", "World")
-    return f'Hello, {escape(name)}!, {escape(res)}!'
+    return f'Hello, {escape(name)}!, {escape(res)}'
 
 
 if __name__ == "__main__":
